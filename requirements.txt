@@ -1,0 +1,4 @@
+Flask==3.0.0
+FastAPI==0.104.1
+Uvicorn==0.24.0
+Pydantic==2.5.0
